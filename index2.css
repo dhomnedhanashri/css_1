@@ -1,0 +1,27 @@
+h1{
+    color: red;font-weight: bold;
+}
+h2{
+    color: red;font-weight: bold;font-style: italic;
+}
+ol{
+    color: brown;font-weight: bold;
+}
+.dh{
+    text-decoration: line-through;
+}
+.dd{
+    background-color: rgb(233, 233, 168);
+}
+ul{
+    color: brown;letter-spacing: 3px;
+}
+.ad{background-color: yellow;font-weight: bold;
+
+}
+p{
+    color: brown;font-weight: bold;
+}
+a{
+    color: brown;background-color: rgb(224, 224, 143);
+}
